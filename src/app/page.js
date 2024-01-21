@@ -22,7 +22,7 @@ export default function Home() {
         </div>
 
         <div className='flex md:flex-row flex-col space-y-4 md:space-y-0'>
-          <div class="sticky z-50 md:w-1/3">
+          <div class="sticky z-30 top-8 md:w-1/3">
             <h1 className='font-semibold text-xl'>Education</h1>
             <h2 className='uppercase font-semibold text-sm tracking-[.2em] text-stone-500'>My background</h2>
           </div>
