@@ -9,7 +9,7 @@ function CvEntry(props) {
                     <h2 className='font-semibold'>{props.title}<br></br><i>{props.result}</i></h2>
                     <h2>{props.period}</h2>
                 </div>
-                <div className='text-justify'>
+                <div className='text-justify text-stone-400'>
                     {props.description}
                 </div>
             </div>
