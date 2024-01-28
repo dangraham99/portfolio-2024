@@ -9,12 +9,25 @@ export const metadata = {
   description: 'Personal site for Daniel Graham',
 }
 
+export const viewport = {
+
+  width: "device-width",
+  height: "device-height",
+  initialScale: 1,
+  maximumScale: 1,
+  minimumScale: 1,
+
+}
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className + ` bg-stone-100 dark:bg-black dark:text-stone-100`}>
+
+      <body className={inter.className + ` bg-stone-100 dark:bg-black dark:text-stone-100 w-full`}>
         <Header />
-        {children}
+        <div class="mx-auto xl:w-1/2 md:w-2/3 px-8  min-h-full">
+          {children}
+        </div>
       </body>
     </html>
   )
