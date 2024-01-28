@@ -24,7 +24,7 @@ function Header() {
         <span>
 
 
-            <header className='top-0 z-50 sticky py-4 backdrop-blur-lg mb-12 dark:bg-stone-800 border-b bg-opacity-100 dark:bg-opacity-40 overscroll-contain dark:border-stone-700'>
+            <header className='top-0 z-50 sticky py-4 backdrop-blur-lg mb-12 dark:bg-stone-800 border-b bg-opacity-100 dark:bg-opacity-40 border-t overscroll-contain dark:border-stone-700'>
                 <div className='flex justify-between items-center xl:w-1/2 md:w-2/3 md:px-0 px-4 mx-auto'>
                     <h1 className='text-xl shrink-0 font-semibold '>Daniel Graham.</h1>
                     <div className='hidden shrink-0 sm:flex gap-6'>
