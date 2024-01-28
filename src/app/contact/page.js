@@ -4,9 +4,8 @@ import Section from '@/components/home/Section'
 
 function Contact() {
     return (
-
         <Section title="Contact" subtitle="Let's get in touch">
-            <div className='flex-col mt-12 space-y-4 h-full '>
+            <div className='flex-col space-y-4 h-full '>
 
                 <div className='bg-zinc-800 rounded-e-3xl rounded-t-3xl p-4 w-3/4'>Hey there 👋🏻, thanks for checking out the site! Get in touch:</div>
                 <div className='bg-zinc-800 rounded-e-3xl rounded-t-3xl p-4 w-3/4'>
@@ -23,6 +22,7 @@ function Contact() {
 
             </div>
         </Section>
+
 
     )
 }
