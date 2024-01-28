@@ -2,7 +2,7 @@ import React from 'react'
 
 function CvEntry(props) {
     return (
-        <div className='mb-8'>
+        <div className=''>
             <h2 className='font-semibold text-red-400'>{props.institution}</h2>
             <div className='mb-8'>
                 <div class="flex justify-between mb-4">

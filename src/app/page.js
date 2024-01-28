@@ -12,22 +12,21 @@ export default function Home() {
 
 
   return (
-    <main className="  ">
+    <main className="">
       <Header />
       <div class="mx-auto xl:w-1/2 md:w-2/3 px-8 min-h-screen">
-        <div class="mb-24">
+        <div class="mb-12">
           <Hero />
         </div>
 
 
-
-
-        <Section title="Projects" subtitle="Previous work">
+        <Section title="Skills and profile" subtitle="At a glance...">
 
 
 
 
         </Section>
+
 
         <Section title="Experience" subtitle="Previous roles">
 
