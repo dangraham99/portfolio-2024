@@ -5,7 +5,7 @@ function Hero() {
         <div>
             <div className="my-8 tracking-tigher">
                 <p className="mb-6 text-3xl font-semibold leading-10">Hello, my name is Dan. I'm a <span className='text-red-400'>software and web developer.</span> </p>
-                <p className="leading-6">I'm a law graduate with an interest in software and web development. I enjoy creating intuitive digial experiences that are as seamless as they are impactful. Currently I work with React and React Native. I've also enjoyed working with Flutter and SwiftUI.</p>
+                <p className="leading-6">I'm a law graduate with an interest in software and web development. I enjoy creating intuitive digital experiences that are as engaging as they are seamless. Currently I work with React and React Native. I've also enjoyed working with Flutter and SwiftUI.</p>
                 <p className='mt-4'>Let's work together!</p>
             </div>
             <div className="flex mt-2 space-x-8 text-sm tracking-widest text-red-400 underline uppercase font-regular ">
