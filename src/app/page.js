@@ -13,7 +13,6 @@ export default function Home() {
 
   return (
     <main className="">
-      <Header />
       <div class="mx-auto xl:w-1/2 md:w-2/3 px-8 min-h-screen">
         <div class="mb-24">
           <Hero />
