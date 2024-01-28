@@ -14,7 +14,7 @@ function Contact() {
                         <li>X/Twitter &#8212; <a className="underline" href="https://twitter.com/dangrahm">@danielgrhm</a></li>
                         <li>GitHub &#8212; <a className="underline" href="https://github.com/dangraham99">dangraham99</a></li>
                         <li>LinkedIn &#8212; <a className="underline" href="https://www.linkedin.com/in/daniel-graham-bto/">Daniel Graham</a></li>
-                        <li>Email &#8212; <a className="underline" href="mailto://contact@danielgrhm">contact@danielgrhm</a></li>
+                        <li>Email &#8212; <a className="underline" href="mailto://contact@danielgm.com">contact@danielgm.com</a></li>
                     </ul>
 
                 </div>
