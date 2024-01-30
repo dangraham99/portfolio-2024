@@ -34,8 +34,8 @@ function Header() {
                         <Link href="/contact">
                             <p className='hover:cursor-pointer stroke-stone-400'>Contact</p>
                         </Link>
-                        <Link href="/blog">
-                            <p className='hover:cursor-pointer  stroke-stone-400'>Blog</p>
+                        <Link href="/cv">
+                            <p className='hover:cursor-pointer  stroke-stone-400'>CV</p>
                         </Link>
                     </div>
                     <svg
@@ -68,9 +68,9 @@ function Header() {
                                 </Link>
                             </li>
                             <li>
-                                <Link href="/blog">
+                                <Link href="/cv">
                                     <span className="flex hover:cursor-pointer w-max p-2">
-                                        Blog
+                                        CV
                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="ml-4 w-6 h-6">
                                             <path strokeLinecap="round" strokeLinejoin="round" d="M17.25 8.25 21 12m0 0-3.75 3.75M21 12H3" />
                                         </svg>
