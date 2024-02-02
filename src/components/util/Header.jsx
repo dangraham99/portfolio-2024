@@ -32,15 +32,15 @@ function Header() {
                     </Link>
                     <div className='hidden shrink-0 sm:flex gap-6'>
                         <Link href="/contact">
-                            <p className='hover:cursor-pointer stroke-stone-400'>Contact</p>
+                            <p className='hover:cursor-pointer stroke-stone-700 dark:stroke-stone-400'>Contact</p>
                         </Link>
                         <Link href="/cv">
-                            <p className='hover:cursor-pointer  stroke-stone-400'>CV</p>
+                            <p className='hover:cursor-pointer  stroke-stone-700 dark:stroke-stone-400'>CV</p>
                         </Link>
                     </div>
                     <svg
                         onClick={() => { setIsMobileDialogOpen(!isMobileDialogOpen) }}
-                        xmlns="http://www.w3.org/2000/svg" className="shrink-0 flex sm:hidden h-8 w-8 stroke-stone-400 hover:cursor-pointer" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+                        xmlns="http://www.w3.org/2000/svg" className="shrink-0 flex sm:hidden h-8 w-8 stroke-stone-700 dark:stroke-stone-400 hover:cursor-pointer" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
                     </svg>
 
