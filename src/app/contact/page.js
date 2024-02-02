@@ -7,8 +7,8 @@ function Contact() {
         <Section title="Contact" subtitle="Let's get in touch">
             <div className='flex-col h-full space-y-4 '>
 
-                <div className='w-3/4 p-4 bg-zinc-800 rounded-e-3xl rounded-t-3xl'>Hey there 👋🏻, thanks for checking out the site! Get in touch:</div>
-                <div className='w-3/4 p-4 bg-zinc-800 rounded-e-3xl rounded-t-3xl'>
+                <div className='bg-gradient-to-t from-blue-400 to-blue-500 text-white dark:text-stone-100 dark:bg-zinc-800 rounded-e-3xl rounded-t-3xl p-4 w-3/4'>Hey there 👋🏻, thanks for checking out the site! Get in touch:</div>
+                <div className='bg-gradient-to-t from-blue-400 to-blue-500 text-white dark:text-stone-100 dark:bg-zinc-800 rounded-e-3xl rounded-t-3xl p-4 w-3/4'>
                     You can get in touch with me at any of the below:
                     <ul className='px-8 mt-2 space-y-1 list-disc'>
                         <li>X/Twitter &#8212; <a className="underline" href="https://twitter.com/danielgrhm">@danielgrhm</a></li>
