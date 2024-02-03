@@ -23,7 +23,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
 
-      <body className={inter.className + ` bg-stone-100 dark:bg-black dark:text-stone-100 w-full`}>
+      <body className={inter.className + ` bg-zinc-100 dark:bg-black dark:text-stone-100 w-full`}>
         <Header />
         <div class="mx-auto xl:w-1/2 md:w-2/3 px-8  min-h-full">
           {children}
