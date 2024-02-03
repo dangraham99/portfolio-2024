@@ -4,7 +4,7 @@ import CvEntry from '@/components/home/CVEntry'
 
 function CV() {
     return (
-        <div>
+        <div className='break-words'>
             <Section title="Experience" subtitle="Previous roles">
 
 
