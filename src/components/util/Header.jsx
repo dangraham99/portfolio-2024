@@ -53,7 +53,7 @@ function Header() {
             {
                 isMobileDialogOpen &&
 
-                <div onClick={() => { setIsMobileDialogOpen(!isMobileDialogOpen) }} className="fixed top-[4.1rem] z-60 backdrop-blur-2xl mb-12 dark:bg-stone-800  bg-opacity-100 dark:bg-opacity-40  dark:border-stone-700 h-screen w-screen bg-red-500  border-stone-700">
+                <div onClick={() => { setIsMobileDialogOpen(!isMobileDialogOpen) }} className="fixed top-[4.1rem] z-60 dark:backdrop-blur-2xl backdrop-blur-xl mb-12 dark:bg-stone-800  bg-opacity-100 dark:bg-opacity-40  dark:border-stone-700 h-screen w-screen  border-stone-700">
 
                     <div className="flex-col mt-12 px-8 text-lg">
                         <ul className='space-y-8'>

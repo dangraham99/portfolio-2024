@@ -3,7 +3,7 @@ import React from 'react'
 function Hero() {
     return (
         <div>
-            <div className="my-24 tracking-tigher ">
+            <div className="my-16 tracking-tigher ">
                 <p className="mb-8 text-3xl font-semibold leading-10">Hello, my name is Dan. I'm a <span className='text-red-500 dark:text-red-400'>software and web developer.</span> </p>
                 <div className="text-stone-800 dark:text-stone-400 text-justify">
                     <p className="leading-6">I'm a law graduate and have been an indie developer for <span className='font-semibold text-red-500 dark:text-red-400'>over 10 years</span>. I enjoy creating intuitive digital experiences that are as engaging as they are seamless. </p>
