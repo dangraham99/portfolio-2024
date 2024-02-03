@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'], weight: ['100', '300', '400', '700', '
 
 export const metadata = {
   title: 'Daniel Graham',
-  description: 'Personal site for Daniel Graham',
+  description: 'Daniel Graham. Software and web developer. Get in touch.',
 }
 
 export const viewport = {
