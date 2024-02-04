@@ -1,6 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
-import Section from '@/components/home/Section'
+import Section from '@/components/util/Section'
 
 function Contact() {
     return (
