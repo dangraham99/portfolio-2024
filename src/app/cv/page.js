@@ -12,7 +12,7 @@ function CV() {
                     institution="Commercial law firm, Glasgow"
                     title="Trainee Solicitor"
                     period="2022 - Current"
-                    description="Currently working towards qualification as a solicitor in Scotland at an independent commercial law firm, with a focus on commercial and insurance litigation."
+                    description="Currently working towards qualification as a solicitor in Scotland at an independent commercial law firm, with a focus on commercial and insurance litigation. Current role includes regular appearances in Scottish courts."
                 />
 
                 <CvEntry
