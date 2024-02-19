@@ -1,6 +1,6 @@
 import React from 'react'
-import Section from '@/components/home/Section'
-import CvEntry from '@/components/home/CVEntry'
+import Section from '@/components/util/Section'
+import CvEntry from '@/components/cv/CVEntry'
 
 function CV() {
     return (

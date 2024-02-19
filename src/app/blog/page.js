@@ -1,5 +1,5 @@
 import React from 'react'
-import Section from '@/components/home/Section'
+import Section from '@/components/util/Section'
 import Image from 'next/image'
 
 function Blog() {
