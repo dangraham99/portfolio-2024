@@ -23,7 +23,7 @@ export default function Home() {
 
       <div class="my-12">
         <div class="flex-col justify-center  my-4">
-          <h2 className='text-center font-semibold text-stone-800 dark:text-stone-400 text-lg'>I've been working with:</h2>
+          <h2 className='text-center font-semibold text-stone-700 dark:text-stone-400 text-lg'>I've been working with:</h2>
         </div>
         <div class="flex 2xl:justify-center justify-start gap-4 py-8 border-t border-b border-stone-500 overflow-x-auto overflow-show dark:fill-stone-400 fill-stone-800 px-4">
           <svg role="img" className='snap-always snap-center shrink-0 h-12 w-12' viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>HTML5</title><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z" /></svg>
